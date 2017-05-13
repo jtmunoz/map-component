@@ -1,1 +1,1 @@
-This project is meant to recreate a map component for my portfolio. Is is based upon contributions I had made for a group project.
+Recreating the map component from Mend.
